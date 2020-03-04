@@ -56,6 +56,6 @@ The tag in the center means the label of the edge. "a", "t", "d", "o" are abbreb
 A line started with "#" shows a comment written by an annotator, and should be ignored for processing purposes.
 
 # References:
-[1] [Yoko Yamakata, John A Carrol, and Shinsuke  Mori, "A Comparison of Cooking Recipe Named Entities between Japanese and English", CEA2017, Pages 7–12, 2017. ](https://dl.acm.org/doi/10.1145/3106668.3106672)
+[1] [Yoko Yamakata, John Carrol, and Shinsuke  Mori, "A Comparison of Cooking Recipe Named Entities between Japanese and English", CEA2017, Pages 7–12, 2017. ](https://dl.acm.org/doi/10.1145/3106668.3106672)
 
 [2] [Yoko Yamakata, Shinsuke Mori and John Carroll, "English Recipe Flow Graph Corpus", LREC2020, paper number 582, 2020 (to appear).](https://lrec2020.lrec-conf.org/en/conference-programme/accepted-papers/)
