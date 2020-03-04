@@ -1,5 +1,5 @@
 # English recipe flowgraph dataset
-The recipe flowgraph dataset used in our [1] and/or [2] papers is available here:
+The recipe flowgraph dataset used in our [papers](#references) is available here:
 
 ## Download files:
 ### r-100 dataset
