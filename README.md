@@ -4,12 +4,12 @@ The recipe flowgraph dataset used in our [1] and/or [2] papers is available here
 ## Download files:
 ### r-100 dataset
 These recipes were sampled from each category of ‘dish type’ in the Allrecipes UK/Ireland web site (http://allrecipes.co.uk/) as of December 2016. The sample selection criteria are based on the proportions and rank orders in which recipes are listed within each dish type. The number of the recipes of each dish type in the web site and the corpus are shown in Table 3 in the paper [1].
-- The zip file: [r-100.zip]()
+- The zip file: [r-100.zip](r-100.zip)
 - The original data can be download according to the list: [r-100.json](r-100.json)
 ### r-200 dataset
 There recipes was sampled from the Allrecipes UK/Ireland web site completely randomly.
-- The zip file: [r-200.zip]
-- The original data can be download according to the list: r-200.json
+- The zip file: [r-200.zip](r-200.zip)
+- The original data can be download according to the list: [r-200.json](r-200.json)
 ## Contents:
 ### '*.list' provide r-NE list:
 An example of the file is as below:
