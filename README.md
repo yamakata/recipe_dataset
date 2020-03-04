@@ -42,6 +42,10 @@ oven/T --> Preheat/Ac
 170 C/St --> Preheat/Ac
 Gas mark 3/St -> Preheat/Ac
 ```
+The tag in the center means the label of the edge. "a", "t", "d", "o" are abbrebiation of "Agent", "Target", "Destination" and "Other-mod.", respectively.
+
+A line started with "#" shows a comment described by an annotator. Just ignore when you use it.
+
 # References:
 [1] [Yoko Yamakata, John A Carrol, and Shinsuke  Mori, "A Comparison of Cooking Recipe Named Entities between Japanese and English", CEA2017, Pages 7–12, 2017. ](https://dl.acm.org/doi/10.1145/3106668.3106672)
 
