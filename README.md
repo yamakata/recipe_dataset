@@ -1,5 +1,5 @@
-# English recipe flowgraph dataset
-The recipe flowgraph datasets used in our papers published at CEA2017 [1] and LREC2020 [2] are available for download. 
+# English recipe flowgraph
+The recipe flowgraph corola used in our papers published at CEA2017 [1] and LREC2020 [2] are available for download. 
 
 ## Download files:
 ### r-100 dataset
